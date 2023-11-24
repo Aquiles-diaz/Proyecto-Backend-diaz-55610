@@ -1,0 +1,68 @@
+[
+    {
+        "title": "converse",
+        "description": "zapatillas",
+        "code": "PL03",
+        "price": 2400,
+        "stock": 11,
+        "category": "calzado",
+        "thumbnails": [
+            "zconverse_01",
+            "zconverse.jpg"
+        ],
+        "status": true,
+        "id": 5
+    },
+    {
+        "title": "adidas",
+        "description": "zapatillas",
+        "code": "PL07",
+        "price": 456,
+        "status": true,
+        "stock": 23,
+        "category": "calzado",
+        "thumbnails": [
+            "adidaspardo.jpg",
+            "adidaspardo.jpg"
+        ],
+        "id": 6
+    },
+    {
+        "title": "adidas offwhite",
+        "description": "zapatillas",
+        "code": "JM08",
+        "price": 111,
+        "status": true,
+        "stock": 30,
+        "category": "calzado",
+        "id": 7
+    },
+    {
+        "title": "ringo",
+        "description": "zapatillas",
+        "code": "PL08",
+        "price": 2400,
+        "stock": 20,
+        "category": "calzado",
+        "thumbnails": [
+            "ringoserie_01",
+            "ringoserie.jpg"
+        ],
+        "status": true,
+        "id": 8
+    },
+    {
+        "title": "new balance",
+        "description": "zapatillas",
+        "code": "PL09",
+        "price": 24,
+        "stock": 6,
+        "category": "calzado",
+        "thumbnails": [
+            "nbalance_01",
+            "nbalance.jpg"
+        ],
+        "status": true,
+        "id": 10
+    }
+]
